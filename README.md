@@ -2,8 +2,7 @@
 
 <h1>Bonjour à tous, je suis Loic Giuliano, développeur web à Marseille, France.<img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-I'm a **Machine Learning Engineer** working at [Peak](https://peak.ai/). My day to day work revolves around building Machine Learning models for various interesting problems and deploying them to production, at scale. I'm open to collaborate on interesting projects.
-Je suis passioné par la création de site et d'application web. Avec l'utilisation de frameworks modernes comme <a href="https://nextjs.org/">Next.js</a>, <a href="https://qwik.dev/">Qwik</a>, ou encore <a href="https://astro.build/">Astro<a>, je développe des applications web complètes.
+Je suis passioné par la **création de site et d'application web**. Avec l'utilisation de frameworks modernes comme <a href="https://nextjs.org/">Next.js</a>, <a href="https://qwik.dev/">Qwik</a>, ou encore <a href="https://astro.build/">Astro<a>, je développe des applications web complètes.
 
 ## Compétences :muscle:
 
