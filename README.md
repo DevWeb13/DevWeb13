@@ -36,16 +36,16 @@ Voici quelques-unes des technologies que j'utilise ou sur lesquelles j'ai travai
 
 <br>
 
-## Some of my stats :bar_chart:
+## Quelques statistiques :bar_chart:
 
-| <img src="https://github-readme-stats.vercel.app/api?username=techytushar&show_icons=true&theme=radical&include_all_commits=true"> | <a href="https://stackoverflow.com/users/story/5679285"><img src="https://github-readme-stackoverflow.vercel.app/?userID=5679285&theme=dark" height="250"></a> |
+| <img src="https://github-readme-stats.vercel.app/api?username=devweb13&show_icons=true&theme=radical&include_all_commits=true"> | <a href="https://stackoverflow.com/users/story/5679285"><img src="https://github-readme-stackoverflow.vercel.app/?userID=5679285&theme=dark" height="250"></a> |
 | ---------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 <br>
 
 ## Let's Connect :handshake:
 
-| <a href="https://www.linkedin.com/in/tusharmit/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a> | <a href="https://www.kaggle.com/techytushar/"><img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="40"></a> |
+| <a href="https://www.linkedin.com/in/loic-giuliano/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a> | <a href="https://www.kaggle.com/techytushar/"><img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="40"></a> |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
 
 ### Here is a random meme for you, to make your day better
