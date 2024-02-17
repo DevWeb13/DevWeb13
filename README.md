@@ -21,7 +21,7 @@ Voici quelques-unes des technologies que j'utilise ou sur lesquelles j'ai travai
 
 **Infrastructure**
 
-| <img title="Vercel" alt="Vercel" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/vercel/vercel.png"> | <img title="Kubernetes" alt="Kubernetes" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/kubernetes/kubernetes.png"> | <img title="Heroku" alt="Heroku" width="40px" src="https://img.icons8.com/color/48/000000/heroku.png"> |
+| <img title="Vercel" alt="Vercel" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/vercel/vercel.png"> | <img title="Netlify" alt="Netlify" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/netlify/netlify.png"> | <img title="Heroku" alt="Heroku" width="40px" src="https://img.icons8.com/color/48/000000/heroku.png"> |
 | ----------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
 
 **Databases**
