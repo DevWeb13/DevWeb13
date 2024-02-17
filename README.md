@@ -1,6 +1,6 @@
 ### Bonjour à tous 👋
 
-<h1>Bonjour à tous, je suis Loic Giuliano, développeur web à Marseille, France.<img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1>Bienvenue, je suis Loic Giuliano, développeur web à Marseille, France.<img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 Je suis passioné par la **création de site et d'application web**. Avec l'utilisation de frameworks modernes comme <a href="https://nextjs.org/">Next.js</a>, <a href="https://qwik.dev/">Qwik</a>, ou encore <a href="https://astro.build/">Astro<a>, je développe des applications web complètes.
 
