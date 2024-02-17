@@ -26,8 +26,8 @@ Voici quelques-unes des technologies que j'utilise ou sur lesquelles j'ai travai
 
 **Databases**
 
-| <img title="Sanity" alt="Sanity" width="40px" src="https://github.com/DevWeb13/DevWeb13/blob/main/sanity.svg"> | <img title="MongoDB" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png"> | <img title="ElasticSearch" alt="ElasticSearch" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/elasticsearch/elasticsearch.png"> <br> |
-| ------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img title="Sanity" alt="Sanity" width="40px" src="https://github.com/DevWeb13/DevWeb13/blob/main/sanity.svg"> | <img title="MongoDB" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png"> |
+| ------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
 
 **Tools**
 
